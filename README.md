@@ -12,7 +12,7 @@ The auditd module was tested with logs from auditd on OSes like CentOS 6 and Cen
 
 This module is not available for Windows.
 
-### Installation
+## Installation
 
 ### Linux:
 
